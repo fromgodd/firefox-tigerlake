@@ -14,6 +14,8 @@ Experimental test build of Mozilla's Firefox browser, especially optimized for I
 
 
 
+## Copyrights
+
 The Firefox logo is a trademark of the Mozilla Corporation. The logo is protected by trademark and copyright laws, and its use is subject to the terms of the Mozilla Trademark Policy.
 
 If you are using the Firefox logo in connection with your project, you should follow the guidelines in the Mozilla Trademark Policy to ensure proper use of the trademark. In general, you should not use the Firefox logo in a way that suggests an affiliation with, sponsorship, or endorsement by the Mozilla Corporation without prior written permission.
